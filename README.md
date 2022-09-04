@@ -5,6 +5,8 @@ Emre</a></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=4000&color=F7BD33&center=true&width=435&lines=I'm+an+iOS+Developer." alt="I'm an iOS Developer." /></a>
 </p>
 
+🌱 I’m currently learning iOS Development.
+
 <h3 align="left">Languages and Tools</h3>
   <p align="left">
     <a> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" title="Swift" width="50" height="50" /> </a>
