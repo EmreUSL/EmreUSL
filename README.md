@@ -5,7 +5,7 @@ Emre</a></h1>
 <p align="left">
 <a> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" title="Swift" width="50" height="50" /> </a>
 <a> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" title="SwiftUI" width="50" height="50" /> </a>
-<a> <img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/09/C-2.png" alt="c" title="C" width="50" height="50" /> </a>
+<a> <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-c.png" alt="c" title="C" width="50" height="50" /> </a>
 <a> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" title="C#" width="50" height="50" /> </a>
   
 </p>
