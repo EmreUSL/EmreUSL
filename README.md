@@ -2,7 +2,7 @@
 Emre</a></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B01F&center=true&width=435&lines=I'm+an+iOS+Developer." alt="I'm an iOS Developer." /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=4000&color=F7BD33&center=true&width=435&lines=I'm+an+iOS+Developer." alt="I'm an iOS Developer." /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
