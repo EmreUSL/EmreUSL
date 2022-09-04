@@ -2,10 +2,10 @@
 Emre</a></h1>
 
 <h3 align="left">Languages and Tools</h3>
-<p align="left" margin="10px">
+<p align="left" STYLE="margin:10px">
 <a> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" title="Swift" width="50" height="50" /> </a>
 <a> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" title="SwiftUI" width="50" height="50" /> </a>
-<a> <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" alt="c" title="C" width="50" height="50" /> </a>
+<a> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/C_logo_pur.png" alt="c" title="C" width="50" height="50" /> </a>
 <a> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" title="C#" width="50" height="50" /> </a>
   
 </p>
