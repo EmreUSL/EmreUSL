@@ -6,8 +6,5 @@ Emre</a></h1>
 - 🌱 I’m currently learning Swift.
 
 <h3 align="left">Languages and Tools</h3>
-<a>
-51
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-52
-      alt="bootstrap" width="40" height="40" /> </a>
+<a> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" width="50" height="50" /> </a>
+
