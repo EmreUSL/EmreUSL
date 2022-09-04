@@ -6,3 +6,8 @@ Emre</a></h1>
 - 🌱 I’m currently learning Swift.
 
 <h3 align="left">Languages and Tools</h3>
+<a>
+51
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+52
+      alt="bootstrap" width="40" height="40" /> </a>
