@@ -9,9 +9,6 @@ Emre</a></h1>
 
 <h2 align="left">About Me</h2>
 
-⚡ I'm a person with an electrical engineering background.
-
-
 📚 I’m currently learning SwiftUI and programmatically Swift.
 
 
@@ -36,4 +33,6 @@ Emre</a></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-emreusul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-usul-5a4351189)
 
+<!--
 <img src="https://komarev.com/ghpvc/?username=EmreUSL&style=flat-square&color=orange" alt="Github View Counter"/>
+-->
