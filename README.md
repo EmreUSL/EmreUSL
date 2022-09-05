@@ -15,6 +15,8 @@ Emre</a></h1>
 📚 I’m currently learning SwiftUI and programmatically Swift.
 
 
+🏋️ My 
+
 <br/>
 <h2 align="left">🔨 Languages and Tools</h2>
   <p align="left">
