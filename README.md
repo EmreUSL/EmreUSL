@@ -9,13 +9,13 @@ Emre</a></h1>
 
 <h2 align="left">About Me</h2>
 
-🧭 I'm a person with an electrical engineering background.
+⚡ I'm a person with an electrical engineering background.
 
 
 📚 I’m currently learning SwiftUI and programmatically Swift.
 
 
-🏋️ My 
+🏋️‍♂️ I love working out and cooking.
 
 <br/>
 <h2 align="left">🔨 Languages and Tools</h2>
@@ -27,4 +27,5 @@ Emre</a></h1>
   </p>
 
 <br/>
-<h2 align="left">Contact Me</h2>
+<h2 align="left">📫 Contact Me</h2>
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-usul-5a4351189)
