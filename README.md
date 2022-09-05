@@ -8,7 +8,7 @@ Emre</a></h1>
 # 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 📚 I’m currently learning SwiftUI and programmatically Swift.
 
-\
+<br />
 
 <h3 align="left">Languages and Tools</h3>
   <p align="left">
