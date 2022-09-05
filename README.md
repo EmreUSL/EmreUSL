@@ -8,11 +8,13 @@ Emre</a></h1>
 <h2 align="left">About Me</h2>
 
 🧭 I'm a person with an electrical engineering background.
+
+
 📚 I’m currently learning SwiftUI and programmatically Swift.
 
 <br />
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">🔨 Languages and Tools</h2>
   <p align="left">
     <a> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" title="Swift" width="45" height="45" /> </a>
     <a> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" title="SwiftUI" width="45" height="45" />   </a>
