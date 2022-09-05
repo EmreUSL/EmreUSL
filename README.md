@@ -6,7 +6,7 @@ Emre</a></h1>
 </p>
 
 # 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-🌑 I'm a person with an electrical engineering background.\
+🧭 I'm a person with an electrical engineering background.\
 📚 I’m currently learning SwiftUI and programmatically Swift.
 
 <br />
