@@ -31,4 +31,4 @@ Emre</a></h1>
 <br/>
 <h2 align="left">📫 Contact Me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-emre\usul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-usul-5a4351189)
+[![Linkedin Badge](https://img.shields.io/badge/-emre\ usul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-usul-5a4351189)
