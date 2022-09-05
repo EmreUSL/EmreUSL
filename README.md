@@ -36,4 +36,4 @@ Emre</a></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-emreusul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-usul-5a4351189)
 
-<img src="https://komarev.com/ghpvc/?username=EmreUSL&style=flat-square&color=green" alt="Github View Counter"/>
+<img src="https://komarev.com/ghpvc/?username=EmreUSL&style=flat-square&color=yellow" alt="Github View Counter"/>
