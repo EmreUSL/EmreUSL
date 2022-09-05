@@ -5,13 +5,13 @@ Emre</a></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=4000&color=F7BD33&center=true&width=435&lines=I'm+an+iOS+Developer." alt="I'm an iOS Developer." /></a>
 </p>
 
-<h3 align="left">About Me</h3>
-🧭 I'm a person with an electrical engineering background.\
+<h2 align="left">About Me</h3>
+🧭 I'm a person with an electrical engineering background.
 📚 I’m currently learning SwiftUI and programmatically Swift.
 
 <br />
 
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h3>
   <p align="left">
     <a> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" title="Swift" width="45" height="45" /> </a>
     <a> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" title="SwiftUI" width="45" height="45" />   </a>
