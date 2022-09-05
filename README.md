@@ -9,7 +9,6 @@ Emre</a></h1>
 🌑 I'm a person with an electrical engineering background.\
 📚 I’m currently learning SwiftUI and programmatically Swift.
 
-
 <br />
 
 <h3 align="left">Languages and Tools</h3>
