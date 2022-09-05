@@ -17,6 +17,7 @@ Emre</a></h1>
 
 🏋️‍♂️ I love working out and cooking.
 
+
 <br/>
 <h2 align="left">🔨 Languages and Tools</h2>
   <p align="left">
@@ -26,7 +27,7 @@ Emre</a></h1>
     <a> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" title="C#" width="45" height="45" /> </a>
   </p>
 
+
 <br/>
 <h2 align="left">📫 Contact Me</h2>
-
-- [![Linkedin Badge](https://img.shields.io/badge/-emreusul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-usul-5a4351189)
+<a>[![Linkedin Badge](https://img.shields.io/badge/-emreusul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-usul-5a4351189)</a>
