@@ -33,7 +33,7 @@ Emre</a></h1>
     <a align="center" href="https://github.com/EmreUSL/VideoGamesApp">Video Games Showcase<a/>
       <br/>
       <br/>
-      <a align="center" href="https://github.com/EmreUSL/VideoGamesApp">
+      <a align="right" href="https://github.com/EmreUSL/VideoGamesApp">
           <img src="" width="100" height="100" alt="App Logo"<img/>
       <a/>
         </td></tr></table>
