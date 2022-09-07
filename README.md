@@ -29,7 +29,7 @@ Emre</a></h1>
 
 <br/>
 <h2 align="left">Swift Showcase</h2>
-  <table><tr><td >
+  <table><tr margin="10px"><td >
     <a href="https://github.com/EmreUSL/VideoGamesApp">Video Games Showcase<a/>
     <br/>
     <br/>
@@ -40,7 +40,7 @@ Emre</a></h1>
     &nbsp;
     &nbsp;
     <a align="center" href="https://github.com/EmreUSL/VideoGamesApp">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/640px-App_Store_%28iOS%29.svg.png" width="80" height="80" alt="App Logo"<img/>
+      <img src="https://w7.pngwing.com/pngs/249/958/png-transparent-letter-v-grand-theft-auto-v-call-of-duty-black-ops-ii-logo-video-game-rockstar-games-gta-miscellaneous-emblem-symbol.png" width="80" height="80" alt="App Logo"<img/>
     <a/>
   </td>
       
