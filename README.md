@@ -29,7 +29,7 @@ Emre</a></h1>
 
 <br/>
 <h2 align="left">Swift Showcase</h2>
-  <table><tr><td>
+  <table align="left"><tr><td>
     <a href="https://github.com/EmreUSL/VideoGamesApp">Video Games Showcase<a/>
     <br/>
     <br/>
@@ -42,9 +42,9 @@ Emre</a></h1>
     <a href="https://github.com/EmreUSL/VideoGamesApp">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/640px-App_Store_%28iOS%29.svg.png" width="80" height="80" alt="App Logo"<img/>
     <a/>
-  </td></tr></table>
+  </td></tr>
   
-  <table align="center"><tr><td>
+  <tr><td>
     <a href="https://github.com/EmreUSL/CoinApp">Coin Tracker<a/>
     <br/>
     <br/>
