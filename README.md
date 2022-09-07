@@ -38,7 +38,7 @@ Emre</a></h1>
     &nbsp;
     &nbsp;
     <a href="https://github.com/EmreUSL/VideoGamesApp">
-      <img src="https://img.icons8.com/external-others-inmotus-design/344/external-Rocket-contour-others-inmotus-design.png" width="100" height="100" alt="App Logo"<img/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/640px-App_Store_%28iOS%29.svg.png" width="100" height="100" alt="App Logo"<img/>
     <a/>
   </td></tr></table>
 
