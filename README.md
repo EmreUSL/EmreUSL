@@ -45,7 +45,7 @@ Emre</a></h1>
     <a/>
   </td></tr></table>
   
-  <table><tr><td>
+  <table><tr><td align="left">
     <a href="https://github.com/EmreUSL/CoinApp">Coin Tracker<a/>
     <br/>
     <br/>
