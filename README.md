@@ -45,13 +45,12 @@ Emre</a></h1>
     <a/>
   </td></tr></table>
   
+  &nbsp;
   <table><tr><td>
     <a href="https://github.com/EmreUSL/CoinApp">Coin Tracker<a/>
     <br/>
     <br/>
     &nbsp; 
-    &nbsp;
-    &nbsp;
     &nbsp;
     &nbsp;
     &nbsp;
