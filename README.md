@@ -42,9 +42,9 @@ Emre</a></h1>
     <a align="center" href="https://github.com/EmreUSL/VideoGamesApp">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/640px-App_Store_%28iOS%29.svg.png" width="80" height="80" alt="App Logo"<img/>
     <a/>
-      </td></tr>
+  </td>
   
-  <tr style="text-align:center"><td>
+  <td>
     <a href="https://github.com/EmreUSL/CoinApp">Coin Tracker<a/>
     <br/>
     <br/>
