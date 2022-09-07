@@ -33,8 +33,13 @@ Emre</a></h1>
     <a href="https://github.com/EmreUSL/VideoGamesApp">Video Games Showcase<a/>
     <br/>
     <br/>
+    &nbsp; 
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
     <a href="https://github.com/EmreUSL/VideoGamesApp">
-      <img src="https://img.icons8.com/external-others-inmotus-design/344/external-Rocket-contour-others-inmotus-design.png" width="100" height="100" alt="App Logo" class="center"<img/>
+      <img src="https://img.icons8.com/external-others-inmotus-design/344/external-Rocket-contour-others-inmotus-design.png" width="100" height="100" alt="App Logo"<img/>
     <a/>
   </td></tr></table>
 
