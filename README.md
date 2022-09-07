@@ -31,12 +31,12 @@ Emre</a></h1>
 <h2 align="left">Swift Showcase</h2>
   <table><tr><td>
     <a align="center" href="https://github.com/EmreUSL/VideoGamesApp">Video Games Showcase<a/>
-      <br/>
-      <br/>
-      <a href="https://github.com/EmreUSL/VideoGamesApp">
-          <img align="center" src="" width="100" height="100" alt="App Logo"<img/>
-      <a/>
-        </td></tr></table>
+    <br/>
+    <br/>
+    <a href="https://github.com/EmreUSL/VideoGamesApp">
+      <img src="" width="100" height="100" alt="App Logo" style="float: center"<img/>
+    <a/>
+  </td></tr></table>
 
 <br/>
 <h2 align="left">📫 Contact Me</h2>
