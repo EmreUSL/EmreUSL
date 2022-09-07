@@ -49,6 +49,7 @@ Emre</a></h1>
     <a href="https://github.com/EmreUSL/CoinApp">Coin Tracker<a/>
     <br/>
     <br/>
+    &nbsp;
     <a href="https://github.com/EmreUSL/VideoGamesApp">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" width="80" height="80" alt="App Logo"<img/>
     <a/>
