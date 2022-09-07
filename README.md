@@ -40,7 +40,7 @@ Emre</a></h1>
     &nbsp;
     &nbsp;
     <a align="center" href="https://github.com/EmreUSL/VideoGamesApp">
-      <img src="https://toppng.com/uploads/preview/3df0c9-gta-v-ico-11562889545qev6xml00u.png" width="80" height="80" alt="App Logo"<img/>
+      <img src="https://img1.pngindir.com/20180330/aeq/kisspng-grand-theft-auto-v-grand-theft-auto-san-andreas-g-gta-5abe76af1a5ba9.220362951522431663108.jpg" width="80" height="80" alt="App Logo"<img/>
     <a/>
   </td>
       
