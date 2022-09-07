@@ -18,8 +18,7 @@ Emre</a></h1>
 <br/>
 <h2 align="left">🔨 Languages and Tools</h2>
   <p align="left">
-    <a> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1
-      175088.png" alt="swift" title="Swift" width="45" height="45" /> </a>
+    <a> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" title="Swift" width="45" height="45" /> </a>
     &nbsp;
     <a> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" title="SwiftUI" width="47" height="45" /> </a>
     &nbsp;
