@@ -29,7 +29,7 @@ Emre</a></h1>
 
 <br/>
 <h2 align="left">Swift Showcase</h2>
-  <table align="left"><tr><td>
+  <tabl><tr><td>
     <a href="https://github.com/EmreUSL/VideoGamesApp">Video Games Showcase<a/>
     <br/>
     <br/>
