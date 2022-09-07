@@ -30,11 +30,14 @@ Emre</a></h1>
 <br/>
 <h2 align="left">Swift Showcase</h2>
   <table><tr><td>
-    <a align="left" href="https://github.com/EmreUSL/VideoGamesApp">Video Games Showcase<a/>
+    <a href="https://github.com/EmreUSL/VideoGamesApp">Video Games Showcase<a/>
     <br/>
     <br/>
+    &nbsp; 
+    &nbsp;
+    &nbsp;
     <a href="https://github.com/EmreUSL/VideoGamesApp">
-      <img src="https://img.icons8.com/external-others-inmotus-design/344/external-Rocket-contour-others-inmotus-design.png" width="100" height="100" alt="App Logo" style="float: right"<img/>
+      <img src="https://img.icons8.com/external-others-inmotus-design/344/external-Rocket-contour-others-inmotus-design.png" width="100" height="100" alt="App Logo"<img/>
     <a/>
   </td></tr></table>
 
