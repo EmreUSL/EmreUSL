@@ -18,7 +18,8 @@ Emre</a></h1>
 <br/>
 <h2 align="left">🔨 Languages and Tools</h2>
   <p align="left">
-    <a> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" title="Swift" width="45" height="45" /> </a>
+    <a> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1
+      175088.png" alt="swift" title="Swift" width="45" height="45" /> </a>
     &nbsp;
     <a> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" title="SwiftUI" width="47" height="45" /> </a>
     &nbsp;
@@ -41,6 +42,21 @@ Emre</a></h1>
     &nbsp;
     <a href="https://github.com/EmreUSL/VideoGamesApp">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/640px-App_Store_%28iOS%29.svg.png" width="80" height="80" alt="App Logo"<img/>
+    <a/>
+  </td></tr></table>
+  
+  <table><tr><td>
+    <a href="https://github.com/EmreUSL/CoinApp">Coin Tracker<a/>
+    <br/>
+    <br/>
+    &nbsp; 
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    <a href="https://github.com/EmreUSL/VideoGamesApp">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" width="80" height="80" alt="App Logo"<img/>
     <a/>
   </td></tr></table>
 
