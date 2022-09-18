@@ -60,4 +60,4 @@ Emre</a></h1>
 [![Linkedin Badge](https://img.shields.io/badge/-emreusul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-usul-5a4351189)
   
   
-[![Medium Badge](https://img.shields.io/badge/-emreusul-blue?style=flat&logo=Medium&logoColor=black)](https://medium.com/@emreusl)
+[![Medium Badge](https://img.shields.io/badge/-emreusul-black?style=flat&logo=Medium&logoColor=black)](https://medium.com/@emreusl)
