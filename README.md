@@ -57,7 +57,7 @@ Emre</a></h1>
 <br/>
 <h2 align="left">📫 Contact Me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-emreusul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-usul-5a4351189)
+[![Linkedin Badge](https://img.shields.io/badge/-EmreUsul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-usul-5a4351189)
   
   
-[![Medium Badge](https://img.shields.io/badge/-emreusul-white?style=flat&logo=Medium&logoColor=black)](https://medium.com/@emreusl)
+[![Medium Badge](https://img.shields.io/badge/-EmreUSL-white?style=flat&logo=Medium&logoColor=black)](https://medium.com/@emreusl)
