@@ -67,6 +67,14 @@ Emre</a></h1>
       <img src="https://play-lh.googleusercontent.com/CHUroB_c-G__crsSc57AewD-EI1R9K9EmGqGmRRbus0qV_8RtpcgHic2SSfwlwDhPSM" width="80" height="80" alt="App Logo"<img/>
     <a/>
   </td>
+  <td>
+    <a href="https://github.com/EmreUSL/GetNewsMVVM">Newsletter<a/>
+    <br/>
+    <br/>
+    <a href="https://github.com/EmreUSL/GetNewsMVVM">
+      <img src="https://cdn-icons-png.flaticon.com/512/2615/2615105.png" width="80" height="80" alt="App Logo"<img/>
+    <a/>
+  </td>
       </tr></table>
 <br/>
     
