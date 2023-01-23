@@ -67,7 +67,7 @@ Emre</a></h1>
      &nbsp;
      &nbsp;
     <a href="https://github.com/EmreUSL/ExpenseTracker">
-      <img src="https://play-lh.googleusercontent.com/CHUroB_c-G__crsSc57AewD-EI1R9K9EmGqGmRRbus0qV_8RtpcgHic2SSfwlwDhPSM" width="80" height="80" alt="App Logo"<img/>
+      <img src="https://play-lh.googleusercontent.com/CHUroB_c-G__crsSc57AewD-EI1R9K9EmGqGmRRbus0qV_8RtpcgHic2SSfwlwDhPSM" width="90" height="90" alt="App Logo"<img/>
     <a/>
   </td>
       </tr></table>
