@@ -75,6 +75,14 @@ Emre</a></h1>
       <img src="https://cdn-icons-png.flaticon.com/512/2615/2615105.png" width="80" height="80" alt="App Logo"<img/>
     <a/>
   </td>
+  <td>
+    <a href="https://github.com/EmreUSL/NetflixClone/blob/main/README.md">&nbsp;&nbsp;&nbsp;Netflix<a/>
+    <br/>
+    <br/>
+    <a href="https://github.com/EmreUSL/NetflixClone/blob/main/README.md">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732228.png" width="75" height="80" alt="App Logo"<img/>
+    <a/>
+  </td>
       </tr></table>
 <br/>
     
