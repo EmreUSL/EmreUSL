@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/emre-usul-5a4351189" target="blank">
+<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/emre-usul-5a4351189">
 Emre</a></h1>
 
 
@@ -18,13 +18,13 @@ Emre</a></h1>
 <br/>
 <h2 align="left">Languages and Tools</h2>
   <p align="left">
-    <a href="https://developer.apple.com/swift" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" title="Swift" width="45" height="45" /> </a>
+    <a href="https://developer.apple.com/swift"> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" title="Swift" width="45" height="45" /> </a>
     &nbsp;
-    <a> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" title="SwiftUI" width="47" height="45" /> </a>
+    <a href="https://developer.apple.com/xcode/swiftui"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" title="SwiftUI" width="47" height="45" /> </a>
     &nbsp;
-    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" title="C" width="41" height="45" /> </a>
+    <a href="https://www.programiz.com/c-programming"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" title="C" width="41" height="45" /> </a>
     &nbsp;
-    <a> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" title="C#" width="47" height="45" /> </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" title="C#" width="47" height="45" /> </a>
   </p>
 
 <br/>
@@ -105,7 +105,7 @@ Emre</a></h1>
 <br/>
 <h2 align="left">📫 Contact Me</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/emre-usul-5a4351189" target="blank">
+  <a href="https://www.linkedin.com/in/emre-usul-5a4351189"">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin icon" height="30" width="40"/>
