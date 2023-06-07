@@ -63,7 +63,7 @@
       <a href="https://github.com/EmreUSL/VideoGamesApp">Games Showcase</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/VideoGamesApp">
-        <img src="https://i.pinimg.com/originals/5b/ec/47/5bec474d275dbdf8fdb071f30fc978f4.png" width="80" height="80" alt="App Logo" />
+        <img src="https://i.pinimg.com/originals/5b/ec/47/5bec474d275dbdf8fdb071f30fc978f4.png" width="80" height="80" alt="App Logo"/>
       </a>
     </td>
     <td>
