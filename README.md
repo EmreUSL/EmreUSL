@@ -60,6 +60,8 @@
 <table>
   <tr>
     <td>
+      &nbsp;
+      &nbsp;
       <a href="https://github.com/EmreUSL/NetflixClone/blob/main/README.md">Netflix</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/NetflixClone/blob/main/README.md">
@@ -67,6 +69,8 @@
       </a>
     </td>
     <td>
+      &nbsp;
+      &nbsp;
       <a href="https://github.com/EmreUSL/IMDb">IMDb</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/IMDb">
@@ -76,6 +80,8 @@
     <td>
       <a href="https://github.com/EmreUSL/ExpenseTracker">Expense Tracker</a>
       <br/><br/>
+      &nbsp;
+      &nbsp;
       <a href="https://github.com/EmreUSL/ExpenseTracker">
         <img src="https://i.imgur.com/h7JE4c8.png" width="80" height="80" alt="App Logo" />
       </a>
@@ -88,6 +94,8 @@
       </a>
     </td>
     <td>
+      &nbsp;
+      &nbsp;
       <a href="https://github.com/EmreUSL/GetNewsMVVM">News</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/GetNewsMVVM">
@@ -96,6 +104,8 @@
     <td>
       <a href="https://github.com/EmreUSL/VideoGamesApp">Games Showcase</a>
       <br/><br/>
+      &nbsp;
+      &nbsp;
       <a href="https://github.com/EmreUSL/VideoGamesApp">
         <img src="https://i.imgur.com/4kJkghs.png" width="80" height="80" alt="App Logo"/>
       </a>
