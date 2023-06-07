@@ -18,13 +18,10 @@ Emre</a></h1>
 <br/>
 <h2 align="left">Languages and Tools</h2>
   <p align="left">
-    <a href="https://developer.apple.com/swift"> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" title="Swift" width="45" height="45" /> </a>
-    &nbsp;
-    <a href="https://developer.apple.com/xcode/swiftui"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" title="SwiftUI" width="47" height="45" /> </a>
-    &nbsp;
-    <a href="https://www.programiz.com/c-programming"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" title="C" width="41" height="45" /> </a>
-    &nbsp;
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" title="C#" width="47" height="45" /> </a>
+    <a href="https://developer.apple.com/swift"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" title="Swift" width="45" height="45"/> </a>
+    <a href="https://developer.apple.com/xcode/swiftui"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" title="SwiftUI" width="49" height="46"/> </a>
+    <a href="https://www.programiz.com/c-programming"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="45" height="45"/> </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="45" height="45"/> </a>
   </p>
 
 <br/>
@@ -87,8 +84,7 @@ Emre</a></h1>
 <br/>
 
     
-<h2 align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" width="38" height="23" alt="App Store Icon"> App Store</h2>
+<h2 align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" width="38" height="23" alt="App Store Icon"> App Store</h2>
 <table>
   <tr>
     <td>
