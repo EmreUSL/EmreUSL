@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/emre-usul-5a4351189" target="_blank">
+<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/emre-usul-5a4351189" target="blank">
 Emre</a></h1>
 
 
