@@ -31,7 +31,9 @@
 
 &nbsp;
 <h2 align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" width="38" height="23" alt="App Store Icon" />
+  <a href="https://www.apple.com/app-store">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" width="38" height="23" alt="App Store Icon"/>
+  </a>
   App Store
 </h2>
 
@@ -49,7 +51,9 @@
 
 &nbsp;
 <h2 align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="35" height="25" alt="App Store Icon" />
+  <a href="https://developer.apple.com/swift">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="35" height="25" alt="App Store Icon" />
+  </a>
   Swift Showcase
 </h2>
 
