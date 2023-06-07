@@ -41,7 +41,7 @@
       <a href="https://apps.apple.com/us/app/focusflow/id6448875403">FocusFlow</a>
       <br/><br/>
       <a href="https://apps.apple.com/us/app/focusflow/id6448875403">
-        <img src="https://github.com/EmreUSL/EmreUSL/assets/71877385/4ead93ba-2d2b-4c1c-8cad-e6868263b348" width="80" height="80" alt="App Logo" />
+        <img src="https://github.com/EmreUSL/EmreUSL/assets/71877385/4ead93ba-2d2b-4c1c-8cad-e6868263b348" width="80" height="80" alt="App Logo" title="FocusFlow on the App Store"/>
       </a>
     </td>
   </tr>
