@@ -60,21 +60,14 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/EmreUSL/VideoGamesApp">Games Showcase</a>
+      <a href="https://github.com/EmreUSL/NetflixClone/blob/main/README.md">Netflix</a>
       <br/><br/>
-      <a href="https://github.com/EmreUSL/VideoGamesApp">
-        <img src="https://i.pinimg.com/originals/5b/ec/47/5bec474d275dbdf8fdb071f30fc978f4.png" width="80" height="80" alt="App Logo"/>
+      <a href="https://github.com/EmreUSL/NetflixClone/blob/main/README.md">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732228.png" width="75" height="80" alt="App Logo" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/EmreUSL/CoinApp">Coin Tracker</a>
-      <br/><br/>
-      <a href="https://github.com/EmreUSL/CoinApp">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" width="80" height="80" alt="App Logo" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/EmreUSL/IMDb">IMDb App</a>
+      <a href="https://github.com/EmreUSL/IMDb">IMDb</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/IMDb">
         <img src="https://ia.media-imdb.com/images/M/MV5BODc4MTA3NjkzNl5BMl5BcG5nXkFtZTgwMDg0MzQ2OTE@._V1_.png" width="80" height="80" alt="App Logo" />
@@ -88,17 +81,24 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/EmreUSL/GetNewsMVVM">Newsletter</a>
+      <a href="https://github.com/EmreUSL/CoinApp">Coin Tracker</a>
+      <br/><br/>
+      <a href="https://github.com/EmreUSL/CoinApp">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" width="80" height="80" alt="App Logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/EmreUSL/GetNewsMVVM">News</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/GetNewsMVVM">
         <img src="https://cdn-icons-png.flaticon.com/512/2615/2615105.png" width="80" height="80" alt="App Logo" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/EmreUSL/NetflixClone/blob/main/README.md">Netflix</a>
+      <a href="https://github.com/EmreUSL/VideoGamesApp">Games Showcase</a>
       <br/><br/>
-      <a href="https://github.com/EmreUSL/NetflixClone/blob/main/README.md">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732228.png" width="75" height="80" alt="App Logo" />
+      <a href="https://github.com/EmreUSL/VideoGamesApp">
+        <img src="https://i.pinimg.com/originals/5b/ec/47/5bec474d275dbdf8fdb071f30fc978f4.png" width="80" height="80" alt="App Logo"/>
       </a>
     </td>
   </tr>
