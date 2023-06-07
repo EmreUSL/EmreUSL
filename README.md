@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://apps.apple.com/us/app/focusflow/id6448875403">FocusFlow</a>
+      <a href="https://apps.apple.com/us/app/focusflow/id6448875403">Focus Flow</a>
       <br/><br/>
       <a href="https://apps.apple.com/us/app/focusflow/id6448875403">
         <img src="https://i.imgur.com/C5Hp2Sc.png" width="80" height="80" alt="App Logo" />
