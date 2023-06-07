@@ -31,6 +31,24 @@
 
 &nbsp;
 <h2 align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" width="38" height="23" alt="App Store Icon" />
+  App Store
+</h2>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://apps.apple.com/us/app/focusflow/id6448875403">FocusFlow</a>
+      <br/><br/>
+      <a href="https://apps.apple.com/us/app/focusflow/id6448875403">
+        <img src="https://github.com/EmreUSL/EmreUSL/assets/71877385/4ead93ba-2d2b-4c1c-8cad-e6868263b348" width="80" height="80" alt="App Logo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+&nbsp;
+<h2 align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="35" height="25" alt="App Store Icon" />
   Swift Showcase
 </h2>
@@ -77,24 +95,6 @@
       <br/><br/>
       <a href="https://github.com/EmreUSL/NetflixClone/blob/main/README.md">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732228.png" width="75" height="80" alt="App Logo" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-&nbsp;
-<h2 align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" width="38" height="23" alt="App Store Icon" />
-  App Store
-</h2>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://apps.apple.com/us/app/focusflow/id6448875403">FocusFlow</a>
-      <br/><br/>
-      <a href="https://apps.apple.com/us/app/focusflow/id6448875403">
-        <img src="https://github.com/EmreUSL/EmreUSL/assets/71877385/4ead93ba-2d2b-4c1c-8cad-e6868263b348" width="80" height="80" alt="App Logo" />
       </a>
     </td>
   </tr>
