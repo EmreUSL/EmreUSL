@@ -16,7 +16,7 @@ Emre</a></h1>
 
 
 <br/>
-<h2 align="left">🔨 Languages and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
   <p align="left">
     <a> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" alt="swift" title="Swift" width="45" height="45" /> </a>
     &nbsp;
