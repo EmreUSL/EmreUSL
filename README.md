@@ -22,7 +22,7 @@ Emre</a></h1>
     &nbsp;
     <a> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" title="SwiftUI" width="47" height="45" /> </a>
     &nbsp;
-    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" title="C"   width="41" height="45" /> </a>
+    <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" title="C" width="41" height="45" /> </a>
     &nbsp;
     <a> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" title="C#" width="47" height="45" /> </a>
   </p>
