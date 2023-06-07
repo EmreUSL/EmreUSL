@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/emre-usul-5a4351189" target="blank">
+<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/emre-usul-5a4351189" target="_blank">
 Emre</a></h1>
 
 
@@ -102,9 +102,12 @@ Emre</a></h1>
   </tr>
 </table>
     
+<br/>
 <h2 align="left">📫 Contact Me</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-EmreUsul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emre-usul-5a4351189)
-  
-  
-[![Medium Badge](https://img.shields.io/badge/-EmreUSL-white?style=flat&logo=Medium&logoColor=black)](https://medium.com/@emreusl)
+<p align="left">
+  <a href="https://www.linkedin.com/in/emre-usul-5a4351189" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin icon" height="30" width="40"/>
+  </a>
+</p>
