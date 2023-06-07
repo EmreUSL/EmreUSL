@@ -43,7 +43,7 @@
       <a href="https://apps.apple.com/us/app/focusflow/id6448875403">FocusFlow</a>
       <br/><br/>
       <a href="https://apps.apple.com/us/app/focusflow/id6448875403">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732228.png" width="80" height="80" alt="App Logo" />
+        <img src="https://i.imgur.com/C5Hp2Sc.png" width="80" height="80" alt="App Logo" />
       </a>
     </td>
   </tr>
@@ -63,41 +63,41 @@
       <a href="https://github.com/EmreUSL/NetflixClone/blob/main/README.md">Netflix</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/NetflixClone/blob/main/README.md">
-        <img src="https://github.com/Frext/EmreUSL/assets/71877385/a44699cd-bb96-4cc9-8cca-62772f26afa0" width="80" height="80" alt="App Logo" />
+        <img src="https://i.imgur.com/nmmg39B.png" width="80" height="80" alt="App Logo" />
       </a>
     </td>
     <td>
       <a href="https://github.com/EmreUSL/IMDb">IMDb</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/IMDb">
-        <img src="https://github.com/Frext/EmreUSL/assets/71877385/796adc2e-1891-4d8d-8e48-1795bbd5aa08" width="80" height="80" alt="App Logo" />
+        <img src="https://i.imgur.com/Zmy58DA.png" width="80" height="80" alt="App Logo" />
       </a>
     </td>
     <td>
       <a href="https://github.com/EmreUSL/ExpenseTracker">Expense Tracker</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/ExpenseTracker">
-        <img src="https://github.com/Frext/EmreUSL/assets/71877385/6d980327-6fa4-4b16-b8fe-ce8ecc6915e0" width="80" height="80" alt="App Logo" />
+        <img src="https://i.imgur.com/h7JE4c8.png" width="80" height="80" alt="App Logo" />
       </a>
     </td>
     <td>
       <a href="https://github.com/EmreUSL/CoinApp">Coin Tracker</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/CoinApp">
-        <img src="https://github.com/Frext/EmreUSL/assets/71877385/2038cdf6-8144-49c3-953f-4a6f21a9178c" width="80" height="80" alt="App Logo" />
+        <img src="https://i.imgur.com/vnpl7vS.png" width="80" height="80" alt="App Logo" />
       </a>
     </td>
     <td>
       <a href="https://github.com/EmreUSL/GetNewsMVVM">News</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/GetNewsMVVM">
-        <img src="https://github.com/Frext/EmreUSL/assets/71877385/eedf2ef7-812d-4a84-b411-0ff5dd2fa017" width="80" height="80" alt="App Logo" />
+        <img src="https://i.imgur.com/RzAYcnC.png" width="80" height="80" alt="App Logo" />
     </td>
     <td>
       <a href="https://github.com/EmreUSL/VideoGamesApp">Games Showcase</a>
       <br/><br/>
       <a href="https://github.com/EmreUSL/VideoGamesApp">
-        <img src="https://github.com/Frext/EmreUSL/assets/71877385/a98bd959-c36f-48ef-8575-8f41947a7a73" width="80" height="80" alt="App Logo"/>
+        <img src="https://i.imgur.com/4kJkghs.png" width="80" height="80" alt="App Logo"/>
       </a>
     </td>
   </tr>
