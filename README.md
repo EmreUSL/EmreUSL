@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=4000&color=F7BD33&center=true&width=435&lines=I'm+an+Software+Developer+in+Test." alt="I'm an Software Developer in Test" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=4000&color=F7BD33&center=true&width=435&lines=I'm+a+Software+Developer+in+Test." alt="I'm a Software Developer in Test" />
   </a>
 </p>
 
