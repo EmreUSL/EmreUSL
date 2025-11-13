@@ -2,14 +2,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=4000&color=F7BD33&center=true&width=435&lines=I'm+an+iOS+Developer." alt="I'm an iOS Developer." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=4000&color=F7BD33&center=true&width=435&lines=I'm+an+iOS+Developer." alt="I'm an Software Developer in Test" />
   </a>
 </p>
 
 <h2 align="left">About Me</h2>
-
-- 📚 I’m currently learning SwiftUI and programmatically Swift.
-- 🏋️‍♂️ I love working out and cooking.
  
 &nbsp;
 <h2 align="left">Languages and Tools</h2>
